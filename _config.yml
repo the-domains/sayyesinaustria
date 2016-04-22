@@ -1,0 +1,28 @@
+name: sayyesinaustria
+favicon: null
+layout_spectrum: 0.9911066265776753
+typography_spectrum: 0.8595063334796578
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.004850729135796428
+  lightness: 0.448238454060629
+  saturation: 0.5328541239723563
+  rhythmicContrast: 0.4479919783771038
+purpose: []
