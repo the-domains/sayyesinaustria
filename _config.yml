@@ -1,6 +1,6 @@
 name: sayyesinaustria
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26129
 typography_spectrum: 0.886
 title: Say YES in Austria
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a1823b'
     - '#c8b56a'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
