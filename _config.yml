@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0
+  saturation: 0.5358423
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5197133
   brandColors:
     - '#ffffff'
     - '#b1ffbe'
     - '#fbd4b2'
     - '#a1823b'
     - '#c8b56a'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5125448
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: sayyesinaustria
+favicon: null
 opengraph:
   image: null
   type: null
