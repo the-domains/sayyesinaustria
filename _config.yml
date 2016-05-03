@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#ffffff'
@@ -22,7 +22,7 @@ color:
     - '#fbd4b2'
     - '#a1823b'
     - '#c8b56a'
-  rhythmicContrast: 0
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: sayyesinaustria
 favicon: null
+name: sayyesinaustria
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.886
-layout_spectrum: 0.50452
+layout_spectrum: 0.265233
