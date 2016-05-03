@@ -1,6 +1,6 @@
 name: sayyesinaustria
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25105
 typography_spectrum: 0.8655914
 title: Say YES in Austria
 collections:
@@ -35,7 +35,7 @@ color:
     - '#a1823b'
     - '#c8b56a'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.562724
+  rhythmicContrast: 0.5
 purpose: []
