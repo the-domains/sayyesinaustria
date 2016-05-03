@@ -1,5 +1,8 @@
+name: sayyesinaustria
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.8655914
 title: Say YES in Austria
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5358423
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#ffffff'
     - '#b1ffbe'
     - '#fbd4b2'
     - '#a1823b'
     - '#c8b56a'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5
   rhythmicContrast: 0.562724
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: sayyesinaustria
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8655914
-layout_spectrum: 0.265233
+purpose: []
