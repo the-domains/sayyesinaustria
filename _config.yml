@@ -1,5 +1,32 @@
-title: Say YES in Austria
-purpose: []
+typography_spectrum: 0.8655914
+color:
+  saturation: 0.5
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#ffffff'
+    - '#b1ffbe'
+    - '#fbd4b2'
+    - '#a1823b'
+    - '#c8b56a'
+  rhythmicContrast: 0.4982079
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/33e53d02-963e-445a-a036-c338b0e217ec.png
+name: sayyesinaustria
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +39,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.5
-  brandStrength: 0
-  lightness: 1
-  brandColors:
-    - '#ffffff'
-    - '#b1ffbe'
-    - '#fbd4b2'
-    - '#a1823b'
-    - '#c8b56a'
-  rhythmicContrast: 0.4982079
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: sayyesinaustria
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8655914
-layout_spectrum: 1
+title: Say YES in Austria
+purpose: []
